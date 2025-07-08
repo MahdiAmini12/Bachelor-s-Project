@@ -1,0 +1,17 @@
+test_environment:
+  os: kali-linux-2024.4
+  kernel: 6.12.3
+  docker_version: 27.3.1
+  podman_version: 5.2.5
+  hardware:
+    cpu: Intel i7-7700HQ (8 cores)
+    memory: 8GB DDR4
+    storage: NVMe SSD 256GB
+test_config:
+  sysbench:
+    cpu_max_prime: 20000
+    memory_block_size: 1K
+    memory_total_size: 10G
+  stress_ng:
+    duration: 60s
+    vm_bytes: 1G

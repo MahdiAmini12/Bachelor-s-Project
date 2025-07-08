@@ -1,0 +1,22 @@
+Architecture:            x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    2
+Core(s) per socket:    4
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 158
+Model name:            Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Stepping:              9
+CPU MHz:               2808.004
+CPU max MHz:           3800.0000
+CPU min MHz:           800.0000
+BogoMIPS:              5616.00
+Virtualization:        VT-x
+L1d cache:             128 KiB
+L1i cache:             128 KiB
+L2 cache:              1 MiB
+L3 cache:              6 MiB

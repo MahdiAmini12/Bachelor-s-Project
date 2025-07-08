@@ -1,0 +1,10 @@
+stress-ng: info: [1872] dispatching hogs: 1 vm
+stress-ng: info: [1872] successful run completed in 60.00s (1 min, 0.00 secs)
+
+Metrics:
+Name         Metrics
+vm           bogo ops: 1425
+             cpu time used: 60.00s
+             cpu usage: 99.99%
+             vm bytes: 1073741824 (1.00GB)
+             vm pages: 262144
